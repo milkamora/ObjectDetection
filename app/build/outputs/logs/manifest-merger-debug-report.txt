@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\aklim\.gradle\caches\transforms-3\5bc3f959ce93f12bdaaef6045615861e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [org.pytorch:pytorch_android_torchvision:1.9.0] C:\Users\aklim\.gradle\caches\transforms-3\86d34dfdf0b1b6ff50ac8297c632ec25\transformed\jetified-pytorch_android_torchvision-1.9.0\AndroidManifest.xml:2:1-10:12
+MERGED from [org.pytorch:pytorch_android_lite:1.9.0] C:\Users\aklim\.gradle\caches\transforms-3\045561732dd10f8b4ac368c5573f3ff0\transformed\jetified-pytorch_android_lite-1.9.0\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\aklim\.gradle\caches\transforms-3\8190198988f5dc1a233e0c21b4a74ad8\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\9031b096f30f90bdf1bcf050cae765c0\transformed\jetified-camera-core-1.0.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\56abd26d6b24f81a9b5fc979f954a723\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\aklim\.gradle\caches\transforms-3\129e5aec11ca482924b35f53b66ee551\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\094c5049f2f17ef069571633cbe3069f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\f0fe3706260b3bce929f3dd639e33b7e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\de5a7dc1c81a89f7e31dc782229122df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\aklim\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\7fbeb7461dd2446c0752921646218aaa\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\cf8ca0b38745219b010b20e3080e51d9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\f07d901af75c0e63256d6d0ab15ab0e0\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\aklim\.gradle\caches\transforms-3\492ae809fb54e88e0de85c85a3bed285\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\aklim\.gradle\caches\transforms-3\a48dcb6983f73a065cdd1587f4cda38a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\303841d5a01881781d7bcd0b9a1b8466\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:6:22-62
+application
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\aklim\.gradle\caches\transforms-3\5bc3f959ce93f12bdaaef6045615861e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\aklim\.gradle\caches\transforms-3\5bc3f959ce93f12bdaaef6045615861e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\aklim\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\aklim\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\aklim\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:14:9-40
+activity#org.pytorch.demo.objectdetection.MainActivity
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:17:13-49
+	android:configChanges
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:16:13-48
+	android:name
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:20:27-74
+activity#org.pytorch.demo.objectdetection.ObjectDetectionActivity
+ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:23:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:26:13-49
+	android:configChanges
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml:24:13-52
+uses-sdk
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\aklim\.gradle\caches\transforms-3\5bc3f959ce93f12bdaaef6045615861e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\aklim\.gradle\caches\transforms-3\5bc3f959ce93f12bdaaef6045615861e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [org.pytorch:pytorch_android_torchvision:1.9.0] C:\Users\aklim\.gradle\caches\transforms-3\86d34dfdf0b1b6ff50ac8297c632ec25\transformed\jetified-pytorch_android_torchvision-1.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_torchvision:1.9.0] C:\Users\aklim\.gradle\caches\transforms-3\86d34dfdf0b1b6ff50ac8297c632ec25\transformed\jetified-pytorch_android_torchvision-1.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.9.0] C:\Users\aklim\.gradle\caches\transforms-3\045561732dd10f8b4ac368c5573f3ff0\transformed\jetified-pytorch_android_lite-1.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.9.0] C:\Users\aklim\.gradle\caches\transforms-3\045561732dd10f8b4ac368c5573f3ff0\transformed\jetified-pytorch_android_lite-1.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\aklim\.gradle\caches\transforms-3\8190198988f5dc1a233e0c21b4a74ad8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\aklim\.gradle\caches\transforms-3\8190198988f5dc1a233e0c21b4a74ad8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\9031b096f30f90bdf1bcf050cae765c0\transformed\jetified-camera-core-1.0.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\9031b096f30f90bdf1bcf050cae765c0\transformed\jetified-camera-core-1.0.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\56abd26d6b24f81a9b5fc979f954a723\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\56abd26d6b24f81a9b5fc979f954a723\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\aklim\.gradle\caches\transforms-3\129e5aec11ca482924b35f53b66ee551\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\aklim\.gradle\caches\transforms-3\129e5aec11ca482924b35f53b66ee551\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\094c5049f2f17ef069571633cbe3069f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\094c5049f2f17ef069571633cbe3069f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\f0fe3706260b3bce929f3dd639e33b7e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\f0fe3706260b3bce929f3dd639e33b7e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\de5a7dc1c81a89f7e31dc782229122df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\de5a7dc1c81a89f7e31dc782229122df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\aklim\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\aklim\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\7fbeb7461dd2446c0752921646218aaa\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\7fbeb7461dd2446c0752921646218aaa\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\aklim\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\cf8ca0b38745219b010b20e3080e51d9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\cf8ca0b38745219b010b20e3080e51d9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\f07d901af75c0e63256d6d0ab15ab0e0\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aklim\.gradle\caches\transforms-3\f07d901af75c0e63256d6d0ab15ab0e0\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\aklim\.gradle\caches\transforms-3\492ae809fb54e88e0de85c85a3bed285\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\aklim\.gradle\caches\transforms-3\492ae809fb54e88e0de85c85a3bed285\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\aklim\.gradle\caches\transforms-3\a48dcb6983f73a065cdd1587f4cda38a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\aklim\.gradle\caches\transforms-3\a48dcb6983f73a065cdd1587f4cda38a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\303841d5a01881781d7bcd0b9a1b8466\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\303841d5a01881781d7bcd0b9a1b8466\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aklim\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aklim\AndroidStudioProjects\ObjectDetection\app\src\main\AndroidManifest.xml
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:25:9-30:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:27:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:30:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\aklim\.gradle\caches\transforms-3\3c3b5ade453640701f4bb614696375f1\transformed\jetified-camera-camera2-1.0.0-alpha05\AndroidManifest.xml:26:13-75
